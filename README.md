@@ -2,7 +2,7 @@
 To be added.
 
 ## Link to the Dataset
-UCI: [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/forest+fires)
+[UCI ML Repository, Forest Fires Data Set](https://archive.ics.uci.edu/ml/datasets/forest+fires)
 
 ## References
 1. [Cortez, Paulo & Morais, A.. (2007). A Data Mining Approach to Predict Forest Fires using Meteorological Data.](https://www.researchgate.net/publication/238767143_A_Data_Mining_Approach_to_Predict_Forest_Fires_using_Meteorological_Data)
