@@ -28,7 +28,7 @@ This regression project uses the forest fires dataset from UCI Machine Learning 
 #### Target Variable
 * area  : Total burned area (in ha)
 
-## Link to the Dataset
+### Link to the Dataset
 [UCI ML Repository, Forest Fires Data Set](https://archive.ics.uci.edu/ml/datasets/forest+fires)
 
 ## References
