@@ -1,5 +1,32 @@
 # Forest-Fires-Regression
-To be added.
+This regression project uses the forest fires dataset from UCI Machine Learning Repository. This project is aimed to analyse the dataset and create regression models based on the best R2 scores.
+
+## Dataset Description
+### Attributes
+#### Features
+
+*Spatial Attributes (S)*
+* X     : x-axis coordinate (from 1 to 9)
+* Y     : y-axis coordinate (from 1 to 9)
+
+*Temporal Attributes (T)*
+* month : Month of the year (January to December)
+* day   : Day of the week (Monday to Sunday)
+
+*Fire Weather Index Attributes (FWI)*
+* FFMC  : Fine Fuel Moisture Code
+* DMC   : Duff Moisture Code
+* DC    : Drought Code
+* ISI   : Initial Spread Index
+
+*Weather/Meteorological Attributes (M)*
+* temp  : Outside temperature (in Celsius)
+* RH    : Outside relative humidity (in percentage)
+* wind  : Outside wind speed (in kilometer per hour)
+* rain  : Outside rain (in millimeter per square meter)
+
+#### Target Variable
+* area  : Total burned area (in ha)
 
 ## Link to the Dataset
 [UCI ML Repository, Forest Fires Data Set](https://archive.ics.uci.edu/ml/datasets/forest+fires)
