@@ -1,4 +1,4 @@
-# Forest-Fires-Regression
+# Forest Fires Regression
 ## Introduction
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/72099185/161308460-ff41ee80-09c5-4c92-9cd6-37df955598c7.jpg">
 
